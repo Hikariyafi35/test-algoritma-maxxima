@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Soal3_FindNumberGanda/1.0.0": {
+        "runtime": {
+          "Soal3_FindNumberGanda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Soal3_FindNumberGanda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

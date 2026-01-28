@@ -1,0 +1,14 @@
+G:\TesMaxxima\Soal1_RekursifString\bin\Debug\net10.0\Soal1_RekursifString.exe
+G:\TesMaxxima\Soal1_RekursifString\bin\Debug\net10.0\Soal1_RekursifString.deps.json
+G:\TesMaxxima\Soal1_RekursifString\bin\Debug\net10.0\Soal1_RekursifString.runtimeconfig.json
+G:\TesMaxxima\Soal1_RekursifString\bin\Debug\net10.0\Soal1_RekursifString.dll
+G:\TesMaxxima\Soal1_RekursifString\bin\Debug\net10.0\Soal1_RekursifString.pdb
+G:\TesMaxxima\Soal1_RekursifString\obj\Debug\net10.0\Soal1_RekursifString.GeneratedMSBuildEditorConfig.editorconfig
+G:\TesMaxxima\Soal1_RekursifString\obj\Debug\net10.0\Soal1_RekursifString.AssemblyInfoInputs.cache
+G:\TesMaxxima\Soal1_RekursifString\obj\Debug\net10.0\Soal1_RekursifString.AssemblyInfo.cs
+G:\TesMaxxima\Soal1_RekursifString\obj\Debug\net10.0\Soal1_RekursifString.csproj.CoreCompileInputs.cache
+G:\TesMaxxima\Soal1_RekursifString\obj\Debug\net10.0\Soal1_RekursifString.dll
+G:\TesMaxxima\Soal1_RekursifString\obj\Debug\net10.0\refint\Soal1_RekursifString.dll
+G:\TesMaxxima\Soal1_RekursifString\obj\Debug\net10.0\Soal1_RekursifString.pdb
+G:\TesMaxxima\Soal1_RekursifString\obj\Debug\net10.0\Soal1_RekursifString.genruntimeconfig.cache
+G:\TesMaxxima\Soal1_RekursifString\obj\Debug\net10.0\ref\Soal1_RekursifString.dll

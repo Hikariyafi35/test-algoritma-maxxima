@@ -1,0 +1,14 @@
+G:\TesMaxxima\Soal3_FindNumberGanda\bin\Debug\net10.0\Soal3_FindNumberGanda.exe
+G:\TesMaxxima\Soal3_FindNumberGanda\bin\Debug\net10.0\Soal3_FindNumberGanda.deps.json
+G:\TesMaxxima\Soal3_FindNumberGanda\bin\Debug\net10.0\Soal3_FindNumberGanda.runtimeconfig.json
+G:\TesMaxxima\Soal3_FindNumberGanda\bin\Debug\net10.0\Soal3_FindNumberGanda.dll
+G:\TesMaxxima\Soal3_FindNumberGanda\bin\Debug\net10.0\Soal3_FindNumberGanda.pdb
+G:\TesMaxxima\Soal3_FindNumberGanda\obj\Debug\net10.0\Soal3_FindNumberGanda.GeneratedMSBuildEditorConfig.editorconfig
+G:\TesMaxxima\Soal3_FindNumberGanda\obj\Debug\net10.0\Soal3_FindNumberGanda.AssemblyInfoInputs.cache
+G:\TesMaxxima\Soal3_FindNumberGanda\obj\Debug\net10.0\Soal3_FindNumberGanda.AssemblyInfo.cs
+G:\TesMaxxima\Soal3_FindNumberGanda\obj\Debug\net10.0\Soal3_FindNumberGanda.csproj.CoreCompileInputs.cache
+G:\TesMaxxima\Soal3_FindNumberGanda\obj\Debug\net10.0\Soal3_FindNumberGanda.dll
+G:\TesMaxxima\Soal3_FindNumberGanda\obj\Debug\net10.0\refint\Soal3_FindNumberGanda.dll
+G:\TesMaxxima\Soal3_FindNumberGanda\obj\Debug\net10.0\Soal3_FindNumberGanda.pdb
+G:\TesMaxxima\Soal3_FindNumberGanda\obj\Debug\net10.0\Soal3_FindNumberGanda.genruntimeconfig.cache
+G:\TesMaxxima\Soal3_FindNumberGanda\obj\Debug\net10.0\ref\Soal3_FindNumberGanda.dll
